@@ -19,7 +19,6 @@ import { Bell, ChartPie, HouseSimple, PlusCircle, DotsThreeCircle } from "phosph
 import AddWallet from "./pages/CreateWallet";
 import Stats from "./pages/Stats";
 import { GestureHandlerRootView } from "react-native-gesture-handler";
-import Notification from "./pages/Notification";
 import client from "./config/apollo";
 import OtherPage from "./pages/OtherPage";
 
